@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc0cd08a-64c0-4f86-acfb-6fa57fe81daf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../config-server" beforeDir="false" afterPath="$PROJECT_DIR$/../config-server" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vl-cloud-config" beforeDir="false" afterPath="$PROJECT_DIR$/../vl-cloud-config" afterDir="false" />
     </list>
@@ -176,7 +177,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555069851720" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555071272890" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -224,12 +225,12 @@
       <workItem from="1554132980787" duration="83000" />
       <workItem from="1554133433565" duration="1363000" />
       <workItem from="1554741878718" duration="2123000" />
-      <workItem from="1554749093281" duration="7372000" />
+      <workItem from="1554749093281" duration="8062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10941000" />
+    <option name="totallyTimeSpent" value="11631000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
