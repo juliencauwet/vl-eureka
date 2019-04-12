@@ -1,0 +1,7 @@
+version: '2'
+services:
+  bibliodb:
+    container_name: eureka
+    image: jaycecordon/vleureka:0.0.1-SNAPSHOT
+    ports:
+      - "8651:8651"
